@@ -1,0 +1,12 @@
+360不兼容修改文件
+
+js/parentPopup.js
+main.jsp
+newResource.jsp
+resource.jsp
+
+jsp/common/returnDetailNoSearch.jsp
+jsp/common/invoiceDetailNoSearch.jsp
+jsp/commonorder/commonorderPartlist.jsp
+jsp/customerManagement/customerDetail.jsp
+jsp/returnTask/selectUser.jsp
